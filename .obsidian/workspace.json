@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGENTS.md",
+                "file": "Java/JDBC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "JDBC"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307.5
   },
   "right": {
     "id": "97376a3bb6ddbf50",
@@ -190,11 +190,37 @@
   },
   "active": "225e2488d2cd81ea",
   "lastOpenFiles": [
+    "raw/IMG_20260914_001214.jpg",
+    "Java/JDBC.md",
+    "Java/JDBC.md.tmp.40860.185c50b11239",
+    "Java/JDBC.md.tmp.40860.c4fb275c745e",
+    "Java/JDBC.md.tmp.40860.182210220817",
+    "AGENTS.md",
+    "raw/IMG_20260914_001239.jpg",
+    "数据库/SQL.md",
+    "Java/raw",
+    "Java",
+    "数据库/JDBC.md",
+    "数据库/JDBC.md.tmp.40860.c5062d33db90",
+    "后端开发/持久层/JDBC.md",
+    "后端开发/持久层",
+    "后端开发/raw",
+    "后端开发/JDBC.md",
+    "后端开发",
+    "raw/IMG_20260919_144549.jpg",
+    "raw/IMG_20260914_113911.jpg",
+    "raw/IMG_20260919_144618.jpg",
+    "Git/Git分区概念.md",
+    "Git/Git分区概念.md.tmp.40860.5aeaf887125c",
+    "Git/Git多人协作指南.md",
+    "Git/raw/IMG_20260919_121311.jpg",
+    "数据库/MySQL/数据类型.md",
+    "数据库/raw/Screenshot_2026-09-12-17-06-36-34_149003a2d400f6a.jpg",
+    "数据库/raw/Screenshot_2026-09-12-14-08-16-50_149003a2d400f6a.jpg",
+    "数据库/MySQL/raw/IMG_20260912_162458.jpg",
+    "数据库/MySQL/raw/IMG_20260912_162442.jpg",
     "README.md",
-    "raw",
     "数据库/MySQL/多表关系.md",
-    "数据库/MySQL/多表关系.md.tmp.40860.ba1fccf29c88",
-    "Nginx/Nginx.md",
-    "AGENTS.md"
+    "Nginx/Nginx.md"
   ]
 }
