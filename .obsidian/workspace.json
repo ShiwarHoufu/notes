@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bdbc9dd099fd813f",
+        "id": "c592232ed707dfc8",
         "type": "tabs",
         "children": [
           {
-            "id": "225e2488d2cd81ea",
+            "id": "e8f341831e5c3a3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JDBC.md",
-                "mode": "source",
-                "source": false
+                "file": "Frontend/JS/Ajax与Axios.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "JDBC"
+              "title": "Ajax与Axios"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/MySQL/MySQL.md",
+                "file": "Frontend/JS/Ajax与Axios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,38 +188,48 @@
       "bases:新建数据库": false
     }
   },
-  "active": "225e2488d2cd81ea",
+  "active": "e8f341831e5c3a3e",
   "lastOpenFiles": [
-    "raw/IMG_20260914_001214.jpg",
-    "Java/JDBC.md",
-    "Java/JDBC.md.tmp.40860.185c50b11239",
-    "Java/JDBC.md.tmp.40860.c4fb275c745e",
-    "Java/JDBC.md.tmp.40860.182210220817",
+    "Frontend/JS/Ajax与Axios.md.tmp.29804.8fd7e5cb4971",
+    "Frontend/JS/JavaScript基础.md",
+    "Frontend/Vue/Vue.md",
+    "Frontend/JS/JavaScript基础.md.tmp.29804.676aa841f724",
+    "Frontend/JS/Ajax与Axios.md.tmp.29804.dd4d440d2379",
+    "Frontend/Vue/Vue.md.tmp.29804.68219ecc1650",
+    "Frontend/raw/IMG_20260920_190239.jpg",
+    "Frontend/raw/IMG_20260920_190343.jpg",
+    "Frontend/raw/IMG_20260920_190328.jpg",
+    "Frontend/raw/IMG_20260920_190320.jpg",
+    "Frontend/raw/IMG_20260920_190423.jpg",
+    "Frontend/JS/Ajax与Axios.md",
+    "Frontend/JS/Ajax与Axios.md.tmp.29804.332a0b127a1a",
+    "Frontend/JS/Ajax与Axios.md.tmp.29804.e01cf1e34f19",
+    "Frontend/raw/Screenshot_2026-09-20-17-23-31-40_149003a2d400f6a.jpg",
+    "Frontend/raw/Screenshot_2026-09-20-17-23-04-41_149003a2d400f6a.jpg",
+    "Frontend/raw/Screenshot_2026-09-20-17-25-49-86_149003a2d400f6a.jpg",
+    "Frontend/raw/Screenshot_2026-09-20-17-37-10-54_149003a2d400f6a.jpg",
+    "Frontend/JS/DOM与事件.md",
+    "Frontend/JS/模块化.md",
+    "计算机基础/编译原理-中间代码生成.md",
+    "计算机基础/编译原理-文法与语言.md",
+    "计算机基础/编译原理.md",
+    "code/vue3-directives.html",
+    "code",
+    "计算机基础/raw/Screenshot_2026-09-20-15-22-32-15_149003a2d400f6a.jpg",
+    "计算机基础/raw",
+    "计算机基础/新建文件夹",
     "AGENTS.md",
-    "raw/IMG_20260914_001239.jpg",
-    "数据库/SQL.md",
-    "Java/raw",
-    "Java",
-    "数据库/JDBC.md",
-    "数据库/JDBC.md.tmp.40860.c5062d33db90",
-    "后端开发/持久层/JDBC.md",
-    "后端开发/持久层",
-    "后端开发/raw",
-    "后端开发/JDBC.md",
-    "后端开发",
-    "raw/IMG_20260919_144549.jpg",
-    "raw/IMG_20260914_113911.jpg",
-    "raw/IMG_20260919_144618.jpg",
-    "Git/Git分区概念.md",
-    "Git/Git分区概念.md.tmp.40860.5aeaf887125c",
-    "Git/Git多人协作指南.md",
-    "Git/raw/IMG_20260919_121311.jpg",
-    "数据库/MySQL/数据类型.md",
-    "数据库/raw/Screenshot_2026-09-12-17-06-36-34_149003a2d400f6a.jpg",
-    "数据库/raw/Screenshot_2026-09-12-14-08-16-50_149003a2d400f6a.jpg",
-    "数据库/MySQL/raw/IMG_20260912_162458.jpg",
-    "数据库/MySQL/raw/IMG_20260912_162442.jpg",
     "README.md",
+    "未命名.base",
+    "数据库/SQL.md",
+    "Frontend/Vue.md",
+    "Java/JDBC.md",
+    "数据库/JDBC.md",
+    "后端开发/持久层/JDBC.md",
+    "后端开发/JDBC.md",
+    "Git/Git分区概念.md",
+    "Git/Git多人协作指南.md",
+    "数据库/MySQL/数据类型.md",
     "数据库/MySQL/多表关系.md",
     "Nginx/Nginx.md"
   ]
