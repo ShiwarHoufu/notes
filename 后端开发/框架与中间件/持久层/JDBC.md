@@ -1,4 +1,3 @@
-# JDBC
 
 **JDBC（Java Database Connectivity）**：Java 访问关系型数据库的**标准 API**，只定义接口（`Connection`、`Statement`、`ResultSet`），具体的实现由各数据库厂商提供的**驱动（Driver）** 负责——所以换一种数据库，Java 代码基本不动，换驱动即可。
 

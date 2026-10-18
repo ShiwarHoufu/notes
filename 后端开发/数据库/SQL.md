@@ -1,5 +1,4 @@
-# SQL
-
+**SQL（Structured Query Language）**
 一门操作关系型数据库的编程语言，定义了操作所有**关系型数据库的统一标准**。
 
 ## 1. SQL 的分类

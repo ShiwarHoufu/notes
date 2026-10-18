@@ -8,6 +8,8 @@
 git config --global user.name "你的名字"
 git config --global user.email "你的邮箱"
 git clone https://github.com/用户名/仓库名.git
+git config --global http.https://github.com.proxy http://127.0.0.1:7890
+# 一般代理都是跑在7890端口（一定要配置这项，否则就算你挂了代理git也用不上）
 ```
 
 ## 2. 分支命名规范
