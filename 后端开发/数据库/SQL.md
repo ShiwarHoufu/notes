@@ -6,7 +6,7 @@
 | 分类      | 全称                         | 说明                              |
 | ------- | -------------------------- | ------------------------------- |
 | **DDL** | Data Definition Language   | 数据**定义**语言，用来定义数据库对象（数据库、表、字段）  |
-| **DML** | Data Manipulation Language | 数据**操作**语言，用来对数据库表中的数据进行增删改     |
+| **DML** | Data Manipulation Language | 数据**操作**语言，用来对数据库表中的数据进行**增删改** |
 | **DQL** | Data Query Language        | 数据**查询**语言，用来查询数据库中表的记录         |
 | **DCL** | Data Control Language      | 数据**控制**语言，用来创建数据库用户、控制数据库的访问权限 |
 |         |                            |                                 |

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后端开发/框架与中间件/消息队列/Rabbit MQ/介绍.md",
+                "file": "后端开发/数据库/MySQL/索引.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "介绍"
+              "title": "索引"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后端开发/框架与中间件/消息队列/Rabbit MQ/介绍.md",
+                "file": "后端开发/数据库/MySQL/索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MySQL/MySQL.md",
+                "file": "后端开发/数据库/MySQL/索引.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,7 +170,8 @@
               "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,53 +188,53 @@
       "bases:新建数据库": false
     }
   },
-  "active": "a28fa176b1fbf720",
+  "active": "b9fd319ebd41c6ea",
   "lastOpenFiles": [
-    "后端开发/框架与中间件/消息队列/Rabbit MQ/可靠性.md",
+    "pictures/IMG_20261029_213934.jpg",
+    "AI应用开发/MCP.md",
+    "AI应用开发/RAG.md",
+    "后端开发/框架与中间件/缓存/缓存一致性.md",
+    "后端开发/数据库/MySQL/索引.md",
+    "后端开发/数据库/MySQL/索引.md.tmp.41328.c8c8e7fd2abd",
+    "后端开发/数据库/raw/Screenshot_2026-10-24-09-57-18-79_149003a2d400f6a.jpg",
+    "后端开发/数据库/raw/Screenshot_2026-10-24-09-55-53-03_149003a2d400f6a.jpg",
+    "后端开发/数据库/raw/Screenshot_2026-10-24-09-52-55-15_149003a2d400f6a.jpg",
+    "后端开发/数据库/MySQL/锁.md",
+    "后端开发/数据库/MySQL/数据类型.md",
+    "后端开发/数据库/MySQL/事务.md",
+    "后端开发/数据库/MySQL/多表关系.md",
+    "后端开发/数据库/SQL.md",
+    "后端开发/数据库/raw/Pasted image 20261020152342.png",
+    "后端开发/数据库/NoSQL.md",
+    "工程化与运维/Linux/系统常用命令.md",
+    "工程化与运维/Linux/WSL.md",
+    "工程化与运维/Linux/未命名",
+    "工程化与运维/Linux",
+    "工程化与运维/Linux/服务器日志.md",
+    "后端开发/框架与中间件/Maven.md",
     "后端开发/框架与中间件/消息队列/概述.md",
-    "后端开发/框架与中间件/消息队列/Rabbit MQ/延迟消息.md",
+    "后端开发/框架与中间件/消息队列/Rabbit MQ/可靠性.md",
     "后端开发/框架与中间件/消息队列/Rabbit MQ/介绍.md",
+    "后端开发/框架与中间件/消息队列/Rabbit MQ/延迟消息.md",
     "后端开发/框架与中间件/消息队列/Rabbit MQ/死信交换机.md",
     "pictures/Pasted image 20261028210415.png",
-    "后端开发/框架与中间件/缓存/缓存一致性.md",
-    "后端开发/框架与中间件/Maven.md",
     "后端开发/框架与中间件/消息队列/Rabbit MQ/死信交换机.md.tmp.50716.943ad417d1e4",
     "后端开发/框架与中间件/raw/Screenshot_2026-10-28-16-49-14-85_149003a2d400f6a.jpg",
     "后端开发/框架与中间件/raw/Screenshot_2026-10-28-09-23-16-78_149003a2d400f6a.jpg",
     "后端开发/框架与中间件/消息队列/Rabbit MQ/可靠性.md.tmp.50716.8414fad65de9",
     "后端开发/框架与中间件/raw/IMG_20261028_195053.jpg",
     "后端开发/框架与中间件/raw/IMG_20261028_195101.jpg",
-    "IMG_20261028_200203.jpg",
-    "pictures/IMG_20261028_200411.jpg",
     "后端开发/框架与中间件/消息队列/Rabbit MQ/交换机类型.md",
     "工程化与运维/Nginx/Nginx.md",
-    "工程化与运维/系统常用命令.md",
     "AI应用开发/Spring AI/RAG/Advisor.md",
-    "AI应用开发/MCP.md",
-    "AI应用开发/RAG.md",
     "AI应用开发/Spring AI/Advisor链.md",
     "AI应用开发/Spring AI/RAG/ETL Pipeline.md",
     "AI应用开发/Spring AI/RAG",
     "AI应用开发/AI通识/词向量.md",
-    "后端开发/网络与Web基础/网络协议.md",
-    "工程化与运维/服务器日志.md",
-    "AI应用开发/workflow.md",
-    "AI应用开发/Spring AI/Tool/Tool.md",
     "AI应用开发/Spring AI/Tool",
-    "AI应用开发/Spring AI/Tool/工具参数增强.md",
-    "pictures/Pasted image 20261025171931.png",
-    "pictures/Pasted image 20261025171702.png",
-    "pictures/etl-class-diagram.jpg",
-    "工程化与运维/Docker/Volume.md",
-    "工程化与运维/Docker/概述.md",
-    "工程化与运维/Docker/Compose.md",
-    "AI应用开发/AI通识/神经网络.md",
     "AI应用开发/raw",
     "AI应用开发/新建文件夹",
     "AI应用开发/工作流模式",
-    "后端开发/框架与中间件/Maven.md.tmp.58340.aeafc22f3410",
-    "后端开发/数据库/MySQL/锁.md.tmp.61736.3271469fe9fa",
-    "后端开发/测试/未命名",
     "未命名.canvas"
   ]
 }
