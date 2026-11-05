@@ -29,7 +29,12 @@ volumes:
   rabbitmq-data:                          # 声明 (必须写)
     name: rabbitmq-data                   # 真正的 Docker 卷名(可选)
 ```
->最终卷的位置：`/var/lib/docker/volumes/rabbitmq-data/_data`
+
+查询卷的元数据（比如在宿主机上真实路径）：
+```bash
+docker volume inspect <项目名>_<卷在 compose 里声明的 key> 
+```
+> 卷名也可以通过 `docker volume ls` 
 
 ## 删除卷
 ```bash
@@ -49,9 +54,17 @@ docker volume prune
 
 ## 命令示例
 
+1. **用`docker run`**
 ```bash
 # 宿主机 /home/dev/code 挂载到容器 /app 
 docker run -d -v /home/dev/code:/app 镜像名
+```
+
+2. **用compose**
+```yml
+volumes:  
+  # 宿主机路径 : 容器内路径 : 权限 
+  - ./mysql/conf.d:/etc/mysql/conf.d:ro
 ```
 
 # 三、tmpfs 内存挂载

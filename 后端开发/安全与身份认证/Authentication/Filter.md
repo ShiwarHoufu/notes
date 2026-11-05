@@ -48,11 +48,6 @@ public class TliasManagementApplication { }
 - 一个 web 应用中可配置多个过滤器，它们形成一条**过滤器链**。
 - 顺序：注解配置的 Filter，优先级按过滤器类名（字符串）的**自然排序**。
 
-```mermaid
-flowchart LR
-    A[浏览器请求] --> B["Filter1<br/>①放行前"] --> C["Filter2<br/>③放行前"] --> D["目标资源<br/>⑤"] --> E["Filter2<br/>⑥放行后"] --> F["Filter1<br/>⑦放行后"] --> G[浏览器响应]
-```
-
 请求按 Filter 顺序**由外向内**进入，响应再**由内向外**原路返回。
 
 `chain.doFilter(request, response)` 即**放行**：调用后继续走链上的下一个过滤器或目标资源。写在它之前的代码在**请求阶段**执行（放行前），写在它之后的代码在**响应阶段**执行（放行后）。

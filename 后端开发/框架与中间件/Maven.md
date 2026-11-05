@@ -59,3 +59,33 @@ IDEA 中侧边栏展示：（双击即可执行）
 | `test`    | 用合适的单元测试框架运行测试（如 JUnit）   |
 | `package` | 将编译后的文件打包，如 `jar`、`war` 等 |
 | `install` | 安装项目到本地仓库                 |
+
+# 三、配置 Maven
+
+**1. 配置本地仓库**
+在合适的位置创建本地仓库，比如在D盘创建`maven-repository`
+然后在配置文件中指定本地仓库位置：
+> 配置文件位置`apache-maven-3.9.16\conf\settings.xml`
+```xml
+<localRepository>D:\maven-repository</localRepository>
+```
+
+**2. 配置阿里云私服**
+在配置文件中修改`<mirrors>`标签：
+```xml
+<mirrors> 
+	<mirror> 
+		<id>aliyunmaven</id> 
+		<mirrorOf>central</mirrorOf> 
+		<name>阿里云公共仓库</name>
+		<url>https://maven.aliyun.com/repository/public</url> 
+	</mirror>
+</mirrors>
+```
+
+**3. 配置环境变量**
+配置系统变量 **MAVEN_HOME** ,并将其 bin 目录加入 PATH 
+
+**4.  IDEA 中配置 Maven 环境**
+- 需要配置：安装目录、配置文件位置、仓库目录
+![[Pasted image 20261105152237.png]]
