@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后端开发/框架与中间件/消息队列/Rabbit MQ/死信交换机.md",
+                "file": "后端开发/框架与中间件/Spring/Spring MVC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "死信交换机"
+              "title": "Spring MVC"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后端开发/框架与中间件/消息队列/Rabbit MQ/死信交换机.md",
+                "file": "后端开发/框架与中间件/Spring/Spring MVC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,14 +190,30 @@
   },
   "active": "1bd78be70b8dee29",
   "lastOpenFiles": [
+    "后端开发/框架与中间件/Spring/AOP.md",
+    "后端开发/安全与身份认证/Authentication/Filter.md",
+    "后端开发/数据库/MySQL/索引.md",
+    "后端开发/安全与身份认证/Authentication/登录认证.md",
+    "pictures/IMG_20261112_131803.jpg",
+    "后端开发/框架与中间件/Spring",
+    "后端开发/框架与中间件/Spring/Spring MVC.md",
+    "后端开发/java/多线程.md",
+    "AI应用开发/Spring AI/RAG/Advisor.md",
+    "AI应用开发/Spring AI/RAG/ETL Pipeline.md",
+    "AI应用开发/RAG.md",
+    "leetcode/未命名.md",
+    "后端开发/java",
+    "AGENTS.md",
+    "后端开发/框架与中间件/持久层/JDBC.md",
+    "后端开发/框架与中间件/持久层/MyBatis-Plus.md",
+    "后端开发/框架与中间件/Spring/Spring Boot/自动配置.md",
+    "后端开发/框架与中间件/消息队列/Rabbit MQ/死信交换机.md",
+    "leetcode",
     "后端开发/框架与中间件/消息队列/Rabbit MQ/延迟消息.md",
     "后端开发/框架与中间件/消息队列/Rabbit MQ/可靠性.md",
-    "后端开发/框架与中间件/消息队列/Rabbit MQ/死信交换机.md",
     "后端开发/框架与中间件/raw/Screenshot_2026-10-28-16-49-14-85_149003a2d400f6a.jpg",
     "后端开发/文件存储/OSS.md",
-    "后端开发/框架与中间件/Spring Boot/自动配置.md",
     "pictures/IMG_20261105_172032.jpg",
-    "后端开发/框架与中间件/Spring Boot/Spring MVC.md",
     "后端开发/框架与中间件/Maven.md",
     "pictures/Pasted image 20261105152237.png",
     "金融学/未命名.md",
@@ -206,36 +222,20 @@
     "昇腾/Ascend C.md",
     "Pasted image 20261101102825.png",
     "Pasted image 20261101104658.png",
-    "后端开发/数据库/MySQL/索引.md",
     "工程化与运维/Docker/Volume.md",
     "工程化与运维/Docker/Compose.md",
     "后端开发/数据库/MySQL/锁.md",
     "工程化与运维/Docker/概述.md",
-    "工程化与运维/Linux/服务器日志.md",
-    "昇腾/未命名.md",
-    "工程化与运维/Linux/系统常用命令.md",
     "昇腾",
     "pictures/Pasted image 20261101095928.png",
-    "AI应用开发/AI通识/神经网络.md",
-    "AI应用开发/AI通识/Cache.md",
-    "AI应用开发/AI通识/词向量.md",
-    "AI应用开发/Spring AI/RAG/ETL Pipeline.md",
-    "AI应用开发/Spring AI/RAG/Advisor.md",
-    "AI应用开发/RAG.md",
-    "后端开发/框架与中间件/缓存/缓存一致性.md",
-    "后端开发/安全与身份认证/Authentication/登录认证与JWT.md",
     "pictures/IMG_20261029_213934.jpg",
     "后端开发/数据库/MySQL/索引.md.tmp.41328.c8c8e7fd2abd",
     "后端开发/数据库/raw/Screenshot_2026-10-24-09-57-18-79_149003a2d400f6a.jpg",
     "后端开发/数据库/raw/Screenshot_2026-10-24-09-55-53-03_149003a2d400f6a.jpg",
-    "后端开发/数据库/raw/Screenshot_2026-10-24-09-52-55-15_149003a2d400f6a.jpg",
     "工程化与运维/Linux/未命名",
     "工程化与运维/Linux",
     "后端开发/框架与中间件/消息队列/Rabbit MQ/死信交换机.md.tmp.50716.943ad417d1e4",
     "后端开发/框架与中间件/消息队列/Rabbit MQ/可靠性.md.tmp.50716.8414fad65de9",
-    "AI应用开发/Spring AI/RAG",
-    "AI应用开发/Spring AI/Tool",
-    "AI应用开发/raw",
     "未命名.canvas"
   ]
 }
