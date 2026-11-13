@@ -60,7 +60,7 @@ public class LogAspect {
 
 Spring 遵循进入时优先级高的先执行，退出时优先级高的后执行的**栈式规则**
 
-
+> Spring事务 `@Trasaction` 就是基于AOP实现的
 # Thought
 
 1. 为什么**校验token**不用 AOP？
